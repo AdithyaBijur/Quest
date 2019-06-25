@@ -1,0 +1,26 @@
+.title {
+    width: 50%;
+}
+
+.formdiv {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.selectdiv {
+    margin-top: 20px;
+    margin-left: 60px;
+    float: left;
+    display: block;
+}
+
+.select {
+    width: 250px;
+    margin-left: 20px;
+}
+
+.submit {
+    margin-top: 30px;
+    text-align: center;
+    display: block;
+}

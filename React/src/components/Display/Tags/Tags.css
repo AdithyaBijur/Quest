@@ -1,0 +1,60 @@
+.topbar {
+    width: 100%;
+    /* background-color: green; */
+}
+
+.topbar h3 {
+    font-size: 23px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.topbar p {
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.topbar input {
+    margin-left: 20px;
+    width: 250px;
+    height: 40px;
+    margin-right: 100px;
+    margin-top: 11px;
+    text-indent: 15px;
+}
+
+.tagdivs {
+    width: 21%;
+    margin: 2%;
+    float: left;
+    overflow: auto;
+    height: 280px;
+    box-shadow: 0 3px 8px black;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.tagdivs::-webkit-scrollbar {
+    display: none;
+}
+
+.tagdivs a {
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 20px;
+    font-weight: 450;
+    color: black;
+    /* position: relative; */
+    /* color: black; */
+    /* top: 10px; */
+    margin-top: 10px;
+    word-wrap: break-word;
+    display: block;
+}
+
+.tagdivs p {
+    margin-top: 3px;
+    margin-left: 19px;
+    font-size: 14px;
+    /* background-color: red; */
+}

@@ -1,0 +1,52 @@
+.Afst {
+    float: left;
+    width: 49%;
+    /* background-color: white; */
+    margin-right: 5px;
+    height: 100%;
+}
+
+.Afst li {
+    list-style-type: none;
+    text-align: center;
+    width: 100%;
+}
+
+.Afst li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    height: 100%;
+    width: 100%;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 9px;
+    /* background-color: pink; */
+}
+
+.Atrd {
+    float: left;
+    width: 49%;
+    /* background-color: blue; */
+    height: 100%;
+}
+
+.Atrd li {
+    list-style-type: none;
+    text-align: center;
+    width: 100%;
+}
+
+.Atrd li a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    /* height: 60px; */
+    height: 100%;
+    width: 100%;
+    color: white;
+    padding-top: 12px;
+    padding-bottom: 9px;
+    /* height: 100%; */
+    /* background-color: blue; */
+}

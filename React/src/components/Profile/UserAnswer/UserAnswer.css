@@ -1,0 +1,276 @@
+.MAINTOPDIV {
+    width: 70%;
+    /* height: 400px; */
+    margin: auto;
+    margin-top: 50px;
+    overflow: hidden;
+    box-shadow: 0px 1px 10px gray;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    /* background-color: green; */
+}
+
+.questinfo {
+    width: 78%;
+    /* height:300px; */
+    /* background-color: red; */
+    float: left;
+}
+
+.Useraction {
+    width: 22%;
+    border-left: 1px solid black;
+    /* height:300px; */
+    /* background-color: yellow; */
+    float: right;
+}
+
+.qasecdiv {
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+.qu {
+    width: 96%;
+    /* background-color: pink; */
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.qu a {
+    /* margin-left: 10px; */
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.ta {
+    width: 100%;
+    /* background-color: pink; */
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.ta a {
+    margin-left: 10px;
+    margin-right: 10px;
+    /* background-color: red; */
+    background-color: rgb(233, 237, 246);
+    border-radius: 20px;
+    padding-left: 10px;
+    font-size: 14px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.as {
+    width: 100%;
+    /* background-color: pink; */
+    margin-top: 10px;
+    padding-top: 5px;
+    height: 45px;
+    /* padding-bottom: 5px; */
+}
+
+.as p {
+    float: left;
+    margin-left: 13px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.as a {
+    margin-left: 10px;
+    float: left;
+    /* background-color: red; */
+    background-color: rgb(235, 238, 243);
+    /* border-radius: 20px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+.upvotediv {
+    width: 100%;
+    margin-top: 10px;
+    height: 60px;
+    /* background-color: pink; */
+}
+
+.Psubmitdiv {
+    width: 100%;
+    margin-top: 10px;
+    height: 60px;
+    /* background-color: gray; */
+}
+
+.iconsty {
+    color: white;
+    stroke: black;
+    stroke-width: 30;
+}
+
+.like {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    /* background-color: red; */
+}
+
+.like a {
+    margin: 0px;
+    padding: 0px;
+    font-size: 22px;
+    /* padding-top: 50px; */
+    background-color: white;
+    margin-left: 40px;
+}
+
+.Psubmitdiv a {
+    margin: 0px;
+    padding: 0px;
+    font-size: 22px;
+    /* padding-top: 50px; */
+    background-color: white;
+    margin-left: 65px;
+}
+
+.like p {
+    margin-left: 40px;
+    margin-bottom: 0px;
+}
+
+.Psubmitdiv p {
+    margin-left: 65px;
+    margin-bottom: 0px;
+}
+
+.Psubmitdiv button {
+    margin: 0px;
+    margin-top: 17px;
+    padding: 0px;
+    width: 120px;
+    padding-top: 4px;
+    margin-left: 15px;
+    font-size: 15px;
+    padding-bottom: 4px;
+    /* background-color: white; */
+    background-color: #007bff;
+    color: white;
+}
+
+.addans {
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.QT {
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 0px;
+    /* background-color: yellow; */
+}
+
+.anslabel {
+    font-size: 13px;
+    font-weight: 650;
+    margin-left: 20px;
+}
+
+hr.hrtag {
+    border-top: 0.3px solid black;
+}
+
+.Ansdiv {
+    width: 100%;
+    /* height: 200px; */
+    /* background-color: red; */
+}
+
+.ansp {
+    width: 100%;
+    /* background-color: yellow; */
+    /* height:100px; */
+    margin: auto;
+    margin-bottom: -15px;
+}
+
+.ansp p {
+    margin-left: 19px;
+    margin-right: 19px;
+}
+
+.ans {
+    width: 100%;
+    /* background-color: pink; */
+    margin-top: 10px;
+    padding-top: 5px;
+    height: 45px;
+    /* padding-bottom: 5px; */
+}
+
+.ans p {
+    float: left;
+    margin-left: 22px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.ANSB {
+    float: left;
+    margin-right: -400px;
+    margin-left: -30px;
+    height: 35px;
+}
+
+.DOWNICON {
+    margin-left: 30px;
+}
+
+.ansu {
+    margin-left: 0px;
+    float: left;
+    /* background-color: red; */
+    background-color: rgb(235, 238, 243);
+    /* border-radius: 20px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-size: 14px;
+    margin-right: 400px;
+    padding-bottom: 5px;
+}
+
+.anslike {
+    /* float: right; */
+    font-size: 22px;
+}
+
+.useransdiv {
+    width: 100%;
+    /* height: 200px; */
+    /* background-color:yellow; */
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+/* 
+.useransdiv textarea{
+    width:95%;
+    text-indent: 12px;
+    margin-left: 15px;
+    height: 170px;
+    box-shadow: 0 1px 5px gray;
+} */
+
+/* .useransdiv button{
+    margin-left: 230px;
+} */

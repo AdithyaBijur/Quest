@@ -1,0 +1,111 @@
+
+
+
+  
+
+.AQdiv{
+    width: 100%;
+    /* height:85px; */
+    overflow: hidden;
+    /* background-color: yellow; */
+}
+
+
+.AQVUV{
+    float: left;
+    width:25%;
+    height:85px;
+    /* background-color: pink; */
+}
+
+.AMAINVUV{
+    width:190px;
+    height:85px;
+    float: right;
+    /* background-color: red; */
+}
+
+.Avotesdiv{
+    width:33%;
+    height: 70% ;
+    margin-top: 12px;
+    float: left;
+    /* background-color: green; */
+}
+
+.Avotesdiv:hover{
+    background-color: rgb(240, 226, 226);
+}
+.ANumberdisplay{
+    width:100%;
+    height: 25px;
+    margin-top: 7px;
+    /* background-color: yellow; */
+}
+.ANumberdisplay a{
+    width:100%;
+    height: 100%;
+    font-size:15px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    /* background-color: white; */
+}
+.AVtext{
+    width:100%;
+    height: 20px;
+    /* background-color: pink; */
+
+}
+
+.AVtext a{
+    width:100%;
+    
+    font-size:14px;
+    height: 100%;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    /* background-color: white; */
+}
+
+.AQTdisplay{
+width: 75%;
+overflow: hidden;
+/* height: 80px; */
+float: left;
+/* background-color: aqua; */
+}
+
+.AQQDispkay{
+    width:95%;
+    /* height: 24px; */
+    overflow: hidden;
+    margin: auto;
+    margin-top: 10px;
+    /* background-color: pink; */
+}
+
+.AQQDispkay a{
+    text-decoration: none;
+}
+
+.AQTag{
+    width:60%;
+    float: left;
+    margin-top: 10px;
+    margin-left: 30px;
+    /* background-color: red; */
+}
+
+.AQDDiv{
+    /* width:30%; */
+    float: right;
+    margin-top: 10px;
+    /* background-color: brown */
+}
+
+.ATAGS{
+    margin-left: 10px;
+    text-decoration: none;
+}

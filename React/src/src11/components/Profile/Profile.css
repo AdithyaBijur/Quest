@@ -1,0 +1,345 @@
+.PFirst {
+        width: 100%;
+        height: 70px;
+        /* background-color: red; */
+        /* position: fixed; */
+}
+
+.PSecond {
+        width: 100%;
+        /* height:100px; */
+        /* background-color: green;  */
+        /* background-color: #F0F1F3; */
+        overflow: hidden;
+}
+
+.PSidebar {
+        width: 18%;
+        height: 555px;
+        float: left;
+        position: fixed;
+        background-color: #44ABE5;
+}
+
+.PDisplay {
+        width: 82%;
+        /* height: 500px; */
+        float: right;
+        /* background-color:aqua; */
+}
+
+.PUsername {
+        width: 100%;
+        /* height:30px; */
+        margin-top: 15px;
+        /* background-color: green; */
+}
+
+.PUsername h3 {
+        text-align: center;
+        color: white;
+        font-weight: 350;
+        font-size: 25px;
+}
+
+.Badgediv {
+        width: 35%;
+        /* background-color: rosybrown; */
+        margin: auto;
+}
+
+.Badges {
+        margin-left: 12px;
+        padding: 7px;
+}
+
+.PImagediv {
+        width: 100%;
+        height: 200px;
+        margin-top: 10px;
+        /* background-color: yellow; */
+}
+
+.PImage {
+        width: 60%;
+        height: 73%;
+        margin: auto;
+        /* border-radius: 50%; */
+        /* border:3px solid white; */
+        /* background-color: paleturquoise; */
+}
+
+.PImage img {
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        border: 3px solid white;
+        background-color: #6EB571;
+}
+
+.LogoutBut {
+        width: 35%;
+        margin: auto;
+        margin-top: 15px;
+        /* background-color: blue; */
+}
+
+.LogoutBut Button {
+        margin-left: 0px;
+        border-radius: 20px;
+        color: white;
+        padding-left: 13px;
+        padding-right: 13px;
+        border: 2px solid white;
+}
+
+.PNav {
+        width: 100%;
+        height: 200px;
+        /* background-color: pink; */
+        margin-top: 20px;
+}
+
+.PNav a {
+        width: 100%;
+        height: 45px;
+        margin-top: 5px;
+        padding-left: 30px;
+        padding-top: 9px;
+        display: block;
+        text-decoration: none;
+        color: white;
+        /* background-color: rgb(31, 141, 209); */
+}
+
+.PNav a:hover {
+        background-color: rgb(31, 141, 209);
+}
+
+/* **********************************Activity Style********************************* */
+
+.ActivityNav {
+        width: 100%;
+        height: 40px;
+        margin-top: 6px;
+        /* background-color: red; */
+        box-shadow: 0 1px 10px rgb(228, 218, 218);
+}
+
+.ActivityNav a {
+        display: block;
+        /* width:7%; */
+        /* background-color: pink; */
+        height: 100%;
+        text-align: center;
+        margin-left: 1px;
+        margin-right: 1px;
+        text-decoration: none;
+        padding-top: 7px;
+        padding-left: 10px;
+        padding-right: 10px;
+        float: left;
+        color: black;
+        /* border-right: 0.1px solid black; */
+}
+
+.ActivityNav a:hover {
+        background-color: rgba(241, 237, 237, 0.993);
+}
+
+.ActivityDisplay {
+        width: 100%;
+        /* height: 300px; */
+        margin-top: 20px;
+        /* background-color: pink; */
+}
+
+/* ********************************ADD info style******************************* */
+
+.AddInfo {
+        width: 87%;
+        margin: auto;
+        margin-top: 20px;
+        /* height:100px; */
+        /* background-color: red; */
+        overflow: hidden;
+}
+
+.AddL {
+        width: 30%;
+        float: left;
+        height: 400px;
+        /* background-color: pink; */
+}
+
+.AddIF textarea{
+        width:90%;
+        margin-left: 10px;
+        height:80px;
+        text-indent: 15px;
+        margin-bottom: 10px;
+
+}
+.AddR {
+        width: 70%;
+        float: right;
+        overflow: hidden;
+        border-left: 0.3px solid black;
+        /* background-color: yellow; */
+}
+
+.AddImageDiv {
+        width: 57%;
+        /* float: right; */
+        height: 150px;
+        margin: auto;
+        margin-top: 40px;
+        box-shadow: 0 0px 1px;
+        border-radius: 3px;
+        /* background-color: green; */
+}
+
+.EAddImageDiv {
+        width: 57%;
+        /* float: right; */
+        height: 150px;
+        margin: auto;
+        margin-top: 40px;
+        /* box-shadow: 0 0px 1px; */
+        border-radius: 3px;
+        /* background-color: green; */
+}
+
+
+.AddImageDiv img {
+        width: 100%;
+        height: 100%;
+}
+
+
+.EAddImageDiv img {
+        width: 100%;
+        height: 100%;
+}
+
+.AddIB {
+        width: 57%;
+        height: 35px;
+        margin: auto;
+        margin-top: 20px;
+        background-color: darkgray;
+}
+
+.AddIB label {
+        width: 100%;
+        font-size: 15px;
+        color: white;
+        height: 100%;
+}
+
+.AddIB input {
+        visibility: hidden;
+}
+
+.AddIF {
+        width: 85%;
+        margin: auto;
+        margin-top: 30px;
+        /* height: 50px; */
+        /* background-color:pink; */
+}
+
+.AddIF label {
+        margin-left: 10px;
+        font-size: 15px;
+        font-weight: 500;
+        margin-bottom: 0px;
+}
+
+.AddIF input {
+        width: 90%;
+        margin-left: 10px;
+        padding: 5px;
+        text-indent: 10px;
+        margin-top: 0px;
+        margin-bottom: 19px;
+}
+
+.Submitdiv {
+        width: 80%;
+        height: 50px;
+        /* background-color: red; */
+        margin: auto;
+        margin-top: 30px;
+}
+
+.Submitdiv input {
+        margin-left: 310px;
+        background-color: #007BFF;
+        color: white;
+        padding-left: 20px;
+        padding-top: 5px;
+        font-weight: bold;
+        padding-right: 20px;
+        padding-bottom: 5px;
+}
+
+
+
+
+/* ********************************DEVELOPER STORY STYLE******************************** */
+
+.developerstory{
+        width:87%;
+        margin:auto;
+        margin-top: 25px;
+        /* height:400px; */
+        /* background-color: pink; */
+}
+
+.DSIMAGEDIV{
+        width:140px;
+        height:130px;
+        /* background-color: red; */
+        margin:auto;
+}
+.DSIMAGEDIV img{
+        width: 100%;
+        height: 100%;
+}
+.DSNAMEDIV{
+        width:50%;
+        /* height: 50px; */
+        /* background-color: yellow; */
+        margin:auto;
+        margin-top: 14px;
+}
+
+.DSNAMEDIV h3{
+        font-size:23px;
+        font-weight: 550;
+        text-align: center;
+}
+
+.DSDiscription{
+        width:70%;
+        /* background-color: red; */
+        margin: auto;
+        text-align: center;
+        margin-top: 20px;
+        font-weight: 649;
+
+}
+
+
+.DSinfodisplay{
+        width:50%;
+        margin:auto;
+        margin-top: 20px;
+        /* background-color: green; */
+        text-align: center;
+}
+
+.DSinfodisplay b{
+        font-weight: 450;
+}

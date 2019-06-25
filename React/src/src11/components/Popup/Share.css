@@ -1,0 +1,41 @@
+
+.Questop{
+    width:100%;
+    /* background-color: red; */
+}
+.Questop span{
+    font-size:25px;
+    margin-left: 20px;
+    
+}
+.submit
+{
+    margin: 0 auto;
+    float: left;
+}
+.formdiv{
+  margin-top:-15px;
+  text-align: center;
+  background-color : #EEF1F7;
+}
+
+.formdiv form input[type="text"]{
+    width:500px;
+    padding-top: 7px;
+    text-indent: 10px;
+    padding-bottom: 7px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid;
+    outline: none;
+    border-radius: 10px;
+
+}
+
+.formdiv span{
+    margin-left: 25px;
+    font-weight: 500;
+}
+
+

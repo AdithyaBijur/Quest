@@ -1,0 +1,61 @@
+.Mainclass{
+    width: 100%;
+    height: 100%;
+    /* background-color: green; */
+}
+
+.Add_Button{
+    width:100%;
+    /* background-color:red; */
+     height: 21%;
+}
+
+.add_but{
+    width:80%;
+    height: 40px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.addsign{
+   font-size: 18px;
+}
+
+.Fields{
+    width:100%;
+    height: 30%;
+    background-color: #FFFFFF;
+    /* background-color: red; */
+}
+.Fields li{
+    list-style-type: none;
+}
+/* .Fields a{
+    display: block;
+    height: 36px;
+    margin-left:10px;
+    padding-left: 40px;
+    margin-top: 4px;
+    padding-top: 8px;
+    text-decoration:  none;
+    font-size: 16px;
+    width:90%;
+} */
+
+.R {
+    display: block;
+    height: 36px;
+    margin-left:10px;
+    padding-left: 40px;
+    margin-top: 4px;
+    text-decoration: none;
+    padding-top: 8px;
+    text-decoration:  none;
+    font-size: 16px;
+    width:90%;
+}
+.Fields a:hover{
+    background-color: rgba(0,0,0,0.1)
+}

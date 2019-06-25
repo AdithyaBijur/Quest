@@ -1,0 +1,39 @@
+.AFirst {
+    width: 100%;
+    /* height: 100px; */
+    /* background-color: red; */
+    /* position: fixed; */
+}
+
+.ASecond {
+    width: 100%;
+    margin-top: 70px;
+    /* height:400px; */
+    overflow: hidden;
+    /* background-color: gray; */
+}
+
+.AContentDisplay {
+    width: 82%;
+    margin: auto;
+    box-shadow: 0 1px 10px #E5E5E5;
+    /* background-color: yellowgreen; */
+    /* height: 300px; */
+}
+
+.ASDescri {
+    width: 20%;
+    margin: auto;
+    margin-top: 30px;
+    /* background-color: red; */
+}
+
+.ASDescri h3 {
+    font-size: 23px;
+    text-align: center;
+}
+
+/* 
+.AHRTAG{
+    border:0.2px solid black;
+} */

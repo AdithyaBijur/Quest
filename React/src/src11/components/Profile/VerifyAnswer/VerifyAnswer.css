@@ -1,0 +1,219 @@
+.VAMAINTOPDIV {
+    width: 80%;
+    /* height: 400px; */
+    margin: auto;
+    margin-top: 50px;
+    overflow: hidden;
+    box-shadow: 0px 1px 10px gray;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    /* background-color: green; */
+}
+
+.VAquestinfo {
+    width: 100%;
+    /* height:300px; */
+    /* background-color: red; */
+    float: left;
+}
+
+.VAUseraction {
+    width: 22%;
+    border-left: 1px solid black;
+    /* height:300px; */
+    /* background-color: yellow; */
+    float: right;
+}
+
+.VAqasecdiv {
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+.VAqu {
+    width: 96%;
+    /* background-color: pink; */
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.VAqu a {
+    /* margin-left: 10px; */
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.VAta {
+    width: 100%;
+    /* background-color: pink; */
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.VAta a {
+    margin-left: 10px;
+    margin-right: 10px;
+    /* background-color: red; */
+    background-color: rgb(233, 237, 246);
+    border-radius: 20px;
+    padding-left: 10px;
+    font-size: 14px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.VAas {
+    width: 100%;
+    /* background-color: pink; */
+    margin-top: 10px;
+    padding-top: 5px;
+    height: 45px;
+    /* padding-bottom: 5px; */
+}
+
+.VAas p {
+    float: left;
+    margin-left: 13px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.VAas a {
+    margin-left: 10px;
+    float: left;
+    /* background-color: red; */
+    background-color: rgb(235, 238, 243);
+    /* border-radius: 20px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+.VAupvotediv {
+    width: 100%;
+    margin-top: 10px;
+    height: 60px;
+    /* background-color: pink; */
+}
+
+.iconsty {
+    color: white;
+    stroke: black;
+    stroke-width: 30;
+}
+
+.iconsty:active {
+    stroke: blue;
+    stroke-width: 50;
+}
+
+.iconsty[tabindex]:focus {
+    stroke: blue;
+    stroke-width: 50;
+}
+
+.VAaddans {
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+
+.VAQT {
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 0px;
+    /* background-color: yellow; */
+}
+
+.VAanslabel {
+    font-size: 13px;
+    font-weight: 650;
+    margin-left: 20px;
+}
+
+hr.hrtag {
+    border-top: 0.3px solid black;
+}
+
+.VAAnsdiv {
+    width: 100%;
+    /* height: 200px; */
+    /* background-color: red; */
+}
+
+.VAansp {
+    width: 100%;
+    /* background-color: yellow; */
+    /* height:100px; */
+    margin: auto;
+    margin-bottom: -15px;
+}
+
+.VAansp p {
+    margin-left: 19px;
+    margin-right: 19px;
+}
+
+.VAans {
+    width: 100%;
+    /* background-color: pink; */
+    margin-top: 10px;
+    padding-top: 5px;
+    height: 45px;
+    /* padding-bottom: 5px; */
+}
+
+.VAANSBUTT {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.VAans p {
+    float: left;
+    margin-left: 22px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+.VAansu {
+    margin-left: 0px;
+    float: left;
+    /* background-color: red; */
+    background-color: rgb(235, 238, 243);
+    /* border-radius: 20px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-size: 14px;
+    margin-right: 400px;
+    padding-bottom: 5px;
+}
+
+.VAuseransdiv {
+    width: 100%;
+    /* height: 200px; */
+    /* background-color:yellow; */
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+/* 
+.useransdiv textarea{
+    width:95%;
+    text-indent: 12px;
+    margin-left: 15px;
+    height: 170px;
+    box-shadow: 0 1px 5px gray;
+} */
+
+/* .useransdiv button{
+    margin-left: 230px;
+} */

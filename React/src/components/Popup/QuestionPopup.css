@@ -1,0 +1,61 @@
+.Questop {
+    width: 100%;
+    /* background-color: red; */
+}
+
+.Questop span {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.title {
+    width: 50%
+}
+
+.submit {
+    margin: 0 auto;
+    float: left;
+}
+
+.formdiv {
+    margin-top: -15px;
+    text-align: center;
+    background-color: #EEF1F7;
+}
+
+.formdiv form input[type="text"] {
+    width: 500px;
+    padding-top: 7px;
+    text-indent: 10px;
+    padding-bottom: 7px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid;
+    outline: none;
+    border-radius: 10px;
+}
+
+.formdiv span {
+    margin-left: 25px;
+    font-weight: 500;
+}
+
+.Tagsmaindiv {
+    width: 100%;
+    /* background-color: red; */
+}
+
+.Tagsmaindiv span {
+    font-size: 30px;
+    margin-left: 30px;
+    margin-right: 130px;
+}
+
+.TagsContent {
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+    border: 1px solid;
+    background-color: red;
+}

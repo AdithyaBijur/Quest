@@ -1,0 +1,24 @@
+.First{
+    width:100%;
+    /* background-color: red; */
+    /* position: fixed; */
+  }
+  
+  .Second{
+    width:18%;
+    /* background-color: yellow; */
+    /* height: 500px; */
+    margin-top: 70px;
+    float:left;
+    height: 550px;
+  }
+  
+  .Third{
+    border-left: 1px solid black;
+    width:82%;
+    margin-top: 80px;
+    /* background-color:blue; */
+    /* height:500px; */
+    float:left;
+  }
+  

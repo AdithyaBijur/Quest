@@ -1,0 +1,155 @@
+
+.qa_divs{
+    width:100%;
+    /* height: 100px; */
+    /* background-color: red; */
+}
+.qa{
+    width:86%;
+    margin:auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    height: 170px;
+    box-shadow: 0px 1px 1px 1px;
+    /* background-color: green; */
+}
+
+.qadiv{
+    float:left;
+    width: 65%;
+    height: 100%;
+    /* background-color: blue; */
+
+}
+
+.q{
+    width: 96%;
+    /* background-color: pink; */
+    margin-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.q a{
+    /* margin-left: 10px; */
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+.vav{
+    border-left: 1px solid black;
+  height: 500px;
+  /* position: absolute; */
+    float:left;
+    height: 100%;
+    width:35%;
+    /* background-color: green; */
+}
+
+.t{
+    width:100%;
+    /* background-color: pink; */
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.t a{
+    margin-left:10px;
+    margin-right: 10px;
+    /* background-color: red; */
+    background-color: rgb(239, 242, 248);
+    border-radius: 20px;
+    padding-left:10px;
+    font-size: 14px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.a{
+    width:100%;
+    float: left;
+    /* background-color: pink; */
+    margin-top: 10px;
+    padding-top: 5px;
+    height:45px;
+    /* padding-bottom: 5px; */
+}
+.a p{
+    float: left;
+    margin-left: 13px;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.a a{
+    margin-left:10px;
+    float: left;
+    /* background-color: red; */
+    background-color: rgb(235, 238, 243);
+    /* border-radius: 20px; */
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    font-size: 14px;    
+    padding-bottom: 5px;
+}
+
+
+.fp{
+float: left;
+width: 25%;
+/* background-color: yellow; */
+height: 100%;
+margin-right: 14px;
+margin-left: 19px;
+
+}
+
+.sp{
+    float: left;
+    width: 25%;
+    /* background-color: yellow; */
+    height: 100%;
+    margin-right: 14px;
+    margin-left: 8px;
+ }
+
+.tp{
+    float: left;
+    width: 25%;
+    /* background-color: yellow; */
+    height: 100%;
+    margin-right: 14px;
+    margin-left: 8px;
+    }
+
+.fc{
+    width: 60%;
+    margin:auto;
+    height: 30%;
+    border-radius: 25px;
+    box-shadow: 1px 0px 10px;
+    /* background-color: white; */
+    margin-top:40%;
+}
+
+.fc p{
+    text-align: center;
+    padding-top: 14px;
+      font-size: 14px;
+}
+
+.ft{
+    width:100%;
+    margin-top: 10px;
+    background-color: white;
+
+}
+
+.ft p{
+    text-align: center;
+    font-size: 14px;
+}

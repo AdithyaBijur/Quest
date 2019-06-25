@@ -1,0 +1,110 @@
+hr{
+    height: 0.3px;
+    color:red;
+    background-color:black;
+}
+
+.U_topbar{
+    width:100%;
+
+    /* background-color: green; */
+}
+
+.U_topbar h3{
+   font-size: 24px;
+    padding-top: 20px;
+    padding-left: 23px;
+}
+
+.U_topbar input{
+    margin-top: 12px;
+    padding-top: 5px;
+    width:200px;    
+    text-indent:10px;
+    padding-bottom: 5px;
+    margin-left: 20px;
+    transition: width 1s;
+    box-shadow: 2px 1px 1px;
+}
+
+
+.U_topbar input:hover{
+    width:250px;
+}
+.Users_div{
+    /* background-color: blue; */
+    overflow: hidden;
+}
+
+.Userbox{
+    width:20%;
+    height:100px;
+    margin-left: 25px;
+    margin-right: 15px;
+    /* background-color: yellow; */
+    overflow: hidden;
+    float: left;
+    border:1px solid;
+    box-shadow: 0 1px 3px 1px;
+    margin-bottom: 30px;
+}
+
+.Imagediv{
+    width:40%;
+    height: 65%;
+    margin-top: 4px;
+    /* background-color: green; */
+ float: left;
+}
+
+.Image{
+    width:70%;
+    height:85%;
+    
+    margin: auto;
+    margin-top: 3px;
+    /* background-color: red; */
+}
+
+.Imagediv img{
+    width:100%;
+    border-radius: 25px;    
+    border: 1px solid #E4DCD4;
+    height:100%;
+}
+.Usernamediv{
+    width:60%;
+    height: 65%;
+    /* background-color: gray; */
+    float: right;
+    margin-top: 4px;
+}
+.username{
+    width:80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 13px;
+    /* background-color: pink; */
+}
+.username a{
+    font-size: 15px;
+    text-decoration: none;
+    color:black;
+    word-wrap: break-word;
+}
+
+.Scorediv{
+    width:100%;
+    float: left;
+    height: 30%;
+    /* background-color: pink; */
+}
+
+.score{
+    width:70%;
+    margin: auto;
+    text-align: center;
+    /* background-color: gray; */
+    height:20px;
+    margin-top: 2px;
+}

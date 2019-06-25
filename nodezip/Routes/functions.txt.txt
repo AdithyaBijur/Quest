@@ -1,0 +1,19 @@
+1.login
+2.signup
+3.addquestion
+4.deletequestion
+5.addanswer
+6.editanswers
+7.verifyanswer(by admin)
+8.editupvotes
+9.editdownvotes
+10.deleteanswers
+11.viewqa(all answers of a single question)
+12.viewownquestions(all question asked by a user in token)
+13.viewownanswer(all answer by user in token)
+14.viewquestionbytags
+15.createcommunity
+16.follow(if grp is open then user is added directly else request is sent to admin of grp)
+17.acceptreq(grp admin can accept or reject the request)
+18.removemember(admin can remove member from a grp)
+ 
