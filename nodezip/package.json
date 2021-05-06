@@ -17,6 +17,6 @@
     "jsonwebtoken": "^8.5.0",
     "mongoose": "^5.4.16",
     "multer": "^1.4.1",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
